@@ -201,11 +201,4 @@ We welcome contributions! Follow these steps to get started:
 
 ---
 
-## 👩‍💻 **Authors**
-
-- [Kritik Hedau](https://github.com/kritikhedau) [App Development]
-- [Shakti Tamrakar](https://github.com/shakti177) [Web Development]
-
----
-
 🎉 **Thank you for visiting Postopia! We can't wait to see what you'll create.**
